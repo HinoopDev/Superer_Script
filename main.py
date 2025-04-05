@@ -8,3 +8,4 @@ while run:
     ui = input("> ")
     pui = parser.parse(ui)
     print(pui)
+    print(parser.parse("hello-world(was up)\n"))
