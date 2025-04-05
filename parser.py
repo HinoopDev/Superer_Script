@@ -1,3 +1,4 @@
+import error
 import constants
 
 def parse(text:str)->list:
